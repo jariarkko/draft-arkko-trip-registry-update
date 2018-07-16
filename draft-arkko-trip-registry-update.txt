@@ -4,8 +4,8 @@
 
 Internet Engineering Task Force                                 J. Arkko
 Internet-Draft                                                  Ericsson
-Updates: 3219 (if approved)                                July 16, 2018
-Intended status: Informational
+Updates: 3219 (if approved)                                    T. Hardie
+Intended status: Informational                             July 16, 2018
 Expires: January 17, 2019
 
 
@@ -53,7 +53,7 @@ Copyright Notice
 
 
 
-Arkko                   Expires January 17, 2019                [Page 1]
+Arkko & Hardie          Expires January 17, 2019                [Page 1]
 
 Internet-Draft            TRIP Registry Update                 July 2018
 
@@ -68,7 +68,7 @@ Table of Contents
    3.  Security Considerations . . . . . . . . . . . . . . . . . . .   2
    4.  Acknowledgements  . . . . . . . . . . . . . . . . . . . . . .   2
    5.  Normative References  . . . . . . . . . . . . . . . . . . . .   2
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   3
+   Authors' Addresses  . . . . . . . . . . . . . . . . . . . . . . .   3
 
 1.  Introduction
 
@@ -109,7 +109,7 @@ Table of Contents
 
 
 
-Arkko                   Expires January 17, 2019                [Page 2]
+Arkko & Hardie          Expires January 17, 2019                [Page 2]
 
 Internet-Draft            TRIP Registry Update                 July 2018
 
@@ -119,7 +119,7 @@ Internet-Draft            TRIP Registry Update                 July 2018
               RFC 8126, DOI 10.17487/RFC8126, June 2017,
               <https://www.rfc-editor.org/info/rfc8126>.
 
-Author's Address
+Authors' Addresses
 
    Jari Arkko
    Ericsson
@@ -129,6 +129,9 @@ Author's Address
    Email: jari.arkko@piuha.net
 
 
+   Ted Hardie
+
+   Email: ted.ietf@gmail.com
 
 
 
@@ -162,7 +165,4 @@ Author's Address
 
 
 
-
-
-
-Arkko                   Expires January 17, 2019                [Page 3]
+Arkko & Hardie          Expires January 17, 2019                [Page 3]

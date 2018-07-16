@@ -42,6 +42,13 @@
       </address>
     </author>
     
+    <author fullname="Ted Hardie" initials="T." 
+            surname="Hardie">
+      <address>
+        <email>ted.ietf@gmail.com</email>
+      </address>
+    </author>
+    
     <date month="July" year="2018" />
 
     <area>Applications and Real-Time</area>
