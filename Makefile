@@ -1,6 +1,5 @@
 
-all:	draft-arkko-trip-registry-update.txt \
-	draft-arkko-trip-registry-rationale.txt
+all:	draft-arkko-trip-registry-update.txt
 
 draft-arkko-trip-registry-update.txt:	draft-arkko-trip-registry-update.xml
 	scp draft-arkko-trip-registry-update.xml jar@arkko.eu:
