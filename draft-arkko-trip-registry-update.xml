@@ -79,10 +79,9 @@
       (<xref target="RFC3219"/>, Section 13.2) and TRIP ITAD Numbers
       (<xref target="RFC3219"/>, Section 13.5) as follows.</t>
 
-      <t>Contact information relating to a registration will no longer
-      be required to include postal address. In addition, the IANA is
-      instructed that displaying previously collected postal address
-      information should be deprecated.</t>
+      <t>IANA will no longer collect postal address information when
+      adding TRIP registry entries. Additionally, IANA should no
+      longer publish previously collected postal addresses.</t>
       
     </section>
 
