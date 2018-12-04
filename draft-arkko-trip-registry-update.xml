@@ -14,7 +14,7 @@
 <?rfc sortrefs="yes" ?>
 <?rfc compact="yes" ?>
 <?rfc subcompact="no" ?>
-<rfc category="info" docName="draft-arkko-trip-registry-update-00" ipr="trust200902" updates="3219">
+<rfc category="std" docName="draft-arkko-trip-registry-update-01" ipr="trust200902" updates="3219">
 
   <front>
 
@@ -49,7 +49,7 @@
       </address>
     </author>
     
-    <date month="July" year="2018" />
+    <date month="December" year="2018" />
 
     <area>Applications and Real-Time</area>
 
@@ -82,9 +82,10 @@
     
     <section anchor="iana" title="IANA Considerations">
       
-      <t>This memo updates the registration rules for TRIP Attributes
-      (<xref target="RFC3219"/>, Section 13.2) and TRIP ITAD Numbers
-      (<xref target="RFC3219"/>, Section 13.5) as follows.</t>
+      <t>This memo updates the registration rules <xref
+      target="RFC8126"/> for TRIP Attributes (<xref
+      target="RFC3219"/>, Section 13.2) and TRIP ITAD Numbers (<xref
+      target="RFC3219"/>, Section 13.5) as follows.</t>
 
       <t>IANA will no longer collect postal address information when
       adding TRIP registry entries. Additionally, IANA should no
@@ -102,7 +103,9 @@
 
       <t>The authors would like to thank Michelle Cotton,
       Alissa Cooper, and Jonathan Rosenberg for interesting
-      discussions in this problem space.</t>
+      discussions in this problem space. The authors would also
+      like to thank Carlos Pignataro, Russ Housley, Abdussalam Baryun,
+      and Paul Wouters for feedback.</t>
 
     </section>
 
